@@ -1,6 +1,6 @@
 {
   "name": "odata-query-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ODataJS is a simple and efficient JavaScript library designed to query APIs that implement the OData",
   "main": "src/index.js",
   "scripts": {
