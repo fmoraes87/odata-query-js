@@ -1,3 +1,14 @@
+/**
+ * Restrictions - OData Filter Factory
+ * 
+ * This module provides helper functions to create OData-compliant filter expressions.
+ * 
+ * @author FernandoM
+ * @license MIT
+ * @version 1.0.1
+ */
+
+
 const { BinaryOperatorExpression } = require("./binary-operator-expression.model");
 const { MethodCallExpression } = require("./method-call-expression.model");
 const { ColumnComparisonExpression } =  require("./column-comparison-expression.model");

@@ -1,3 +1,11 @@
+/**
+ * SystemQueryBuilder - Constructs OData Queries in a Fluent API Style
+ * 
+ * @author FernandoM
+ * @license MIT
+ * @version 1.0.1
+ */
+
 const { SystemQuery } = require("./system-query.model");
 
 class SystemQueryBuilder {

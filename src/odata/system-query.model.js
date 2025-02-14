@@ -1,3 +1,15 @@
+/**
+ * SystemQuery - Constructs an OData query with various parameters like filters, 
+ * sorting, pagination, and expansions.
+ * 
+ * This class provides a fluent API to build complex OData queries, supporting 
+ * operations such as `$filter`, `$orderby`, `$top`, `$skip`, `$expand`, and more.
+ * 
+ * @author FernandoM
+ * @license MIT
+ * @version 1.0.1
+ */
+
 const StringUtils = require("../utils/string-utils");
 
 class SystemQuery {

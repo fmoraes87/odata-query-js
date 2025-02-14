@@ -1,3 +1,15 @@
+/**
+ * BinaryOperatorExpression - Represents a binary operation in an OData query.
+ * 
+ * This class extends Criterion and provides a way to construct OData filter expressions
+ * using binary operators (e.g., eq, ne, gt, lt).
+ * 
+ * @author FernandoM
+ * @license MIT
+ * @version 1.0.1
+ */
+
+
 const { Criterion } = require("./criterion.model");
 const { OpType } = require("./op-type");
 
