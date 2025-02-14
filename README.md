@@ -1,6 +1,6 @@
-# ODataJS – A JavaScript Library for Querying OData Endpoints  
+# OdataQueryJS – A JavaScript Library for Querying OData Endpoints  
 
-**ODataJS** is a lightweight and intuitive JavaScript library for building and executing OData queries. It simplifies constructing complex queries using a fluent API while ensuring compatibility with the **OData protocol**.  
+**OdataQueryJS** is a lightweight and intuitive JavaScript library for building and executing OData queries. It simplifies constructing complex queries using a fluent API while ensuring compatibility with the **OData protocol**.  
 
 ## 📦 Installation  
 ```sh
