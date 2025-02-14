@@ -1,0 +1,23 @@
+{
+  "name": "odata-query-js",
+  "version": "1.0.0",
+  "description": "ODataJS is a simple and efficient JavaScript library designed to query APIs that implement the OData",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fmoraes87/odata-query-js.git"
+  },
+  "keywords": [
+    "odata",
+    "js"
+  ],
+  "author": "“FernandoM” <“m87.fernando@gmail.com”>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fmoraes87/odata-query-js/issues"
+  },
+  "homepage": "https://github.com/fmoraes87/odata-query-js#readme"
+}
