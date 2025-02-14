@@ -4,7 +4,7 @@
 
 ## 📦 Installation  
 ```sh
-npm install odatajs
+npm install odata-query-js
 ```
 
 ## 🚀 Usage  
@@ -13,7 +13,7 @@ npm install odatajs
 Construct an OData query to fetch records from `JP_ToDo` with multiple filters and selected fields:  
 
 ```js
-const { SystemQueryBuilder, Restrictions } = require("odatajs");
+const { SystemQueryBuilder, Restrictions } = require("odata-query-js");
 
 let cProjectTaskFilter = new SystemQueryBuilder()
     .from("JP_ToDo")
